@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "WargaGrpc";
+
+package warga;
+
+service WargaService {
+  rpc GetAllWarga (Empty) returns (WargaList);
+  rpc GetWarga (WargaId) returns (Warga);
+  rpc CreateWarga (Warga) returns (Warga);
+  rpc UpdateWarga (Warga) returns (Warga);
+  rpc DeleteWarga (WargaId) returns (Empty);
+}
+
+message Empty {}
+
+message WargaId {
+  int32 id_warga = 1;
+}
+
+message Warga {
+  int32 id_warga = 1;
+  string nik = 2;
+  string nama_lengkap = 3;
+  string tempat_lahir = 4;
+  string jenis_kelamin = 5;
+  string alamat = 6;
+}
+
+message WargaList {
+  repeated Warga items = 1;
+}
