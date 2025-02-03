@@ -23,7 +23,18 @@ public class WargaController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<WargaModel>>> GetWarga()
     {
-        return await _context.Warga.ToListAsync();
+        _logger.LogInformation("Accessing GET /Warga endpoint");
+        try
+        {
+            var result = await _context.Warga.ToListAsync();
+            _logger.LogInformation($"Found {result.Count} records");
+            return result;
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error occurred while fetching warga data");
+            return StatusCode(500, "Internal server error");
+        }
     }
 
     [HttpGet("{id}")]

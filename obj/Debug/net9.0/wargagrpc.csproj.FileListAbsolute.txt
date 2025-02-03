@@ -134,3 +134,12 @@ D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.
 D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.genruntimeconfig.cache
 D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\ref\wargagrpc.dll
 D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.AspNetCore.Web.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.sourcelink.json
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Google.Api.CommonProtos.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.AspNetCore.Grpc.JsonTranscoding.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.AspNetCore.Grpc.Swagger.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.MvcApplicationPartsAssemblyInfo.cs
