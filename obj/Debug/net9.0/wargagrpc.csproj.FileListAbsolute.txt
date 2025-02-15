@@ -1,145 +1,280 @@
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\appsettings.Development.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\appsettings.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.staticwebassets.endpoints.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.exe
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.deps.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.runtimeconfig.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\wargagrpc.pdb
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Google.Protobuf.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.Core.Api.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.Net.Client.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.Net.Common.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Humanizer.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Mono.TextTemplating.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Npgsql.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.CodeDom.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Composition.Convention.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Composition.Hosting.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Composition.Runtime.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\System.Text.Json.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.csproj.AssemblyReference.cache
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.GeneratedMSBuildEditorConfig.editorconfig
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.AssemblyInfoInputs.cache
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.AssemblyInfo.cs
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.csproj.CoreCompileInputs.cache
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.MvcApplicationPartsAssemblyInfo.cache
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\scopedcss\bundle\wargagrpc.styles.css
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets.build.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets.development.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets\msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssets.props
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets\msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets\msbuild.build.wargagrpc.props
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.wargagrpc.props
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.wargagrpc.props
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\staticwebassets.pack.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.csproj.Up2Date
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\refint\wargagrpc.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.pdb
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.genruntimeconfig.cache
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\ref\wargagrpc.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Grpc.AspNetCore.Web.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.sourcelink.json
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Google.Api.CommonProtos.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.AspNetCore.Grpc.JsonTranscoding.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.AspNetCore.Grpc.Swagger.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Microsoft.OpenApi.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\kuliah\semester 5\sistem keamanan terdistribusi\try\wargagrpc\obj\Debug\net9.0\wargagrpc.MvcApplicationPartsAssemblyInfo.cs
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/appsettings.Development.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/appsettings.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.staticwebassets.endpoints.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.exe
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.deps.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.runtimeconfig.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/wargagrpc.pdb
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Google.Protobuf.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.Core.Api.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.Net.Client.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.Net.Common.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Humanizer.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Npgsql.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.CodeDom.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/System.Text.Json.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.AssemblyReference.cache
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.GeneratedMSBuildEditorConfig.editorconfig
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.AssemblyInfoInputs.cache
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.AssemblyInfo.cs
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.CoreCompileInputs.cache
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.MvcApplicationPartsAssemblyInfo.cache
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/scopedcss/bundle/wargagrpc.styles.css
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets.build.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets.development.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssets.props
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.build.wargagrpc.props
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.wargagrpc.props
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.wargagrpc.props
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/staticwebassets.pack.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.Up2Date
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/refint/wargagrpc.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.pdb
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.genruntimeconfig.cache
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/ref/wargagrpc.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Web.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.sourcelink.json
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Google.Api.CommonProtos.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.AspNetCore.Grpc.JsonTranscoding.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.AspNetCore.Grpc.Swagger.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/kuliah/semester 5/sistem keamanan terdistribusi/try/wargagrpc/obj/Debug/net9.0/wargagrpc.MvcApplicationPartsAssemblyInfo.cs
+/home/richard/wargagrpc/bin/Debug/net9.0/appsettings.Development.json
+/home/richard/wargagrpc/bin/Debug/net9.0/appsettings.json
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc.staticwebassets.endpoints.json
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc.deps.json
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc.runtimeconfig.json
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/wargagrpc.pdb
+/home/richard/wargagrpc/bin/Debug/net9.0/Google.Api.CommonProtos.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Google.Protobuf.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.AspNetCore.Web.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.Core.Api.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.Net.Client.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Grpc.Net.Common.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Humanizer.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.AspNetCore.Grpc.JsonTranscoding.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.AspNetCore.Grpc.Swagger.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Npgsql.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.CodeDom.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.AssemblyReference.cache
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.AssemblyInfoInputs.cache
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.AssemblyInfo.cs
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.CoreCompileInputs.cache
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.MvcApplicationPartsAssemblyInfo.cs
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.MvcApplicationPartsAssemblyInfo.cache
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.sourcelink.json
+/home/richard/wargagrpc/obj/Debug/net9.0/scopedcss/bundle/wargagrpc.styles.css
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets.build.json
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets.development.json
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssets.props
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.wargagrpc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.build.wargagrpc.props
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.wargagrpc.props
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.wargagrpc.props
+/home/richard/wargagrpc/obj/Debug/net9.0/staticwebassets.pack.json
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.csproj.Up2Date
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.dll
+/home/richard/wargagrpc/obj/Debug/net9.0/refint/wargagrpc.dll
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.pdb
+/home/richard/wargagrpc/obj/Debug/net9.0/wargagrpc.genruntimeconfig.cache
+/home/richard/wargagrpc/obj/Debug/net9.0/ref/wargagrpc.dll

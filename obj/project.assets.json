@@ -4092,26 +4092,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victus\\.nuget\\packages\\": {}
+    "/home/richard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kuliah\\semester 5\\sistem keamanan terdistribusi\\try\\wargagrpc\\wargagrpc.csproj",
+      "projectUniqueName": "/home/richard/wargagrpc/wargagrpc.csproj",
       "projectName": "wargagrpc",
-      "projectPath": "D:\\kuliah\\semester 5\\sistem keamanan terdistribusi\\try\\wargagrpc\\wargagrpc.csproj",
-      "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-      "outputPath": "D:\\kuliah\\semester 5\\sistem keamanan terdistribusi\\try\\wargagrpc\\obj\\",
+      "projectPath": "/home/richard/wargagrpc/wargagrpc.csproj",
+      "packagesPath": "/home/richard/.nuget/packages/",
+      "outputPath": "/home/richard/wargagrpc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/richard/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4190,7 +4189,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

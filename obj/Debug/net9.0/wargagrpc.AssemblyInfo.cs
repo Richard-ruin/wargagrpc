@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wargagrpc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76f5f2761af8210ff6d280ead3fd7af69abb503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d03179947af65a28b8fde40dca70ebb505cd8f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("wargagrpc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wargagrpc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,24 +10,23 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddGrpc();
 builder.Services.AddControllers();
 
-// Konfigurasi CORS
+// Konfigurasi CORS untuk mengizinkan semua domain
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp",
+    options.AddPolicy("AllowAll",
         builder =>
         {
             builder
-                .WithOrigins("http://localhost:8081", "http://localhost:3000", "exp://10.200.6.14:8081")
-                .AllowAnyMethod()
-                .AllowAnyHeader();
+                .AllowAnyOrigin() // Izinkan semua domain
+                .AllowAnyMethod() // Izinkan semua metode HTTP
+                .AllowAnyHeader(); // Izinkan semua header
         });
 });
 
-// Configure Kestrel
+// Configure Kestrel untuk mendengarkan di semua antarmuka jaringan
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenLocalhost(5090, o => o.Protocols =
-        HttpProtocols.Http1AndHttp2);
+    options.ListenAnyIP(5090, o => o.Protocols = HttpProtocols.Http1); // Dengarkan di semua antarmuka jaringan
 });
 
 // Database context
@@ -38,7 +37,20 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 app.UseRouting();
-app.UseCors("AllowReactApp");
+
+// Aktifkan CORS
+app.UseCors("AllowAll");
+
+// Tambahkan middleware untuk mengirim header CORS
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.Add("Access-Control-Allow-Origin", "*");
+    await next();
+});
+
+// Tangani preflight request (OPTIONS)
+app.MapMethods("/warga", new[] { "OPTIONS" }, () => Results.Ok())
+    .RequireCors("AllowAll");
 
 // Map endpoints langsung (modern approach)
 app.MapGrpcService<WargaService>();
